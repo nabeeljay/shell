@@ -1,2 +1,3 @@
 # shell
-unix
+
+SHELL scripts for Linux Class.

@@ -1,3 +1,3 @@
-# shell
+### Basic Shell Scripting
 
-SHELL scripts for Linux Class.
+A collection of all shell scripting done over a semester at undergrad level.
